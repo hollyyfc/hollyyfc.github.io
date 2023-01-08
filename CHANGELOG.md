@@ -184,7 +184,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 - Update gems.
 - Remove Octopress dependency.
-- Replace `{% highlight %}` tags with GitHub Flavored Markdown backticks.
+- Replace `highlight` tags with GitHub Flavored Markdown backticks.
 - Replace custom `feed.xml` with [jekyll-feed](https://github.com/jekyll/jekyll-feed) plugin.
 
 ## [2.2.3] - 05-05-2016
