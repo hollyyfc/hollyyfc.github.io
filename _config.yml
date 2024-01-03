@@ -79,7 +79,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-Front Matter Defaults
+# Front Matter Defaults
 defaults:
   # Posts defaults
   - scope:
