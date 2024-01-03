@@ -102,6 +102,12 @@ author:
 
 # Footer Links
 footer_links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/holly-cui-4b4520236/
+    icon: fab fa-linkedin-in
   - title: GitHub
     url: https://github.com/hollyyfc
     icon: fab fa-github-square
+  - title: Instagram
+    url: https://www.instagram.com/holly_cui
+    icon: fab fa-instagram
