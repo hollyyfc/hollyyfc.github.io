@@ -2,6 +2,7 @@
 layout: home
 show_excerpts: false
 header: false
+title: Hi there!
 ---
 
 # Data Scientist
