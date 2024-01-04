@@ -6,7 +6,9 @@ layout: default
   <article>
     {% include page-image.html %}
     <div class="page-wrapper">
-      <header class="page-header">
+      {%- comment -%}
+        <header class="page-header">
+      {%- endcomment -%}
         {% if page.id %}
           {% assign title = page.title | markdownify | strip_html %}
         {% else %}
