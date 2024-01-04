@@ -18,7 +18,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Yifan (Holly) Cui"
-description: "Duke University"
+description: "<b> D</b>iscovering <b> A</b>nswers, <b> T</b>apping <b> A</b>wesomeness"
 #baseurl: "/hollyyfc.github.io" # the subpath of your site, e.g. #"/blog"
 url: "https://hollyyfc.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/logo.png" # path of site logo
