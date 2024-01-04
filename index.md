@@ -2,7 +2,6 @@
 layout: home
 show_excerpts: false
 header: false
-title: false
 ---
 
 # Data Scientist
