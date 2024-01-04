@@ -102,6 +102,9 @@ author:
 
 # Footer Links
 footer_links:
+  - title: Email
+    url: mailto:yifan.cui@duke.edu
+    icon: fab fa-envelope
   - title: LinkedIn
     url: https://www.linkedin.com/in/holly-cui-4b4520236/
     icon: fab fa-linkedin-in
