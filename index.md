@@ -42,9 +42,9 @@ In my free time, I balance my academic pursuits with diverse interests such as b
 - Paper Publication: [*Audio-Visual Single-Channel Signal Separation based on Big Data Augmentation*](https://ieeexplore.ieee.org/document/9332362) published by IEEE during International Conference on Computer Networks and Electronic Communications (ICCNEC 2020)
 
 
-### Technical Skills: R, Python, SQL, SAS, AWS SageMaker, Git
+## Skillset
 
-
+![Skillset](skills.png)
 
 
 
