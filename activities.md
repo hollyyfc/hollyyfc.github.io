@@ -10,10 +10,8 @@ title: Activities & Awards
 ## Club Affiliations
 
 **Chief Technology Officer @** [**Duke Statistical Science Majors Union**](https://dukegroups.com/ssmu/home/) (_May 2022_ – _May 2023_)
-- Orchestrated 15+ events such as general board meetings, pro-seminars, and faculty mixers for 280+ members
+- Orchestrated 15+ events such as general board meetings, pro-seminars, and faculty mixers for 280+ members 👥 Follow us [@dukessmu](https://www.instagram.com/dukessmu/)
 - Facilitated annual Duke Datathon, peer advising hours, and faculty-student communication; oversaw website maintenance, member enrollment, and graphic design
-
-<div style="text-align: right"> <i>Follow us [@dukessmu](https://www.instagram.com/dukessmu/)</i> </div>
 
 
 **Project Manager & Data Analyst @** [**Duke Impact Investment Group**](https://www.linkedin.com/company/diig/) (_Aug 2021_ – _Dec 2022_)
