@@ -17,9 +17,9 @@ In my free time, I balance my academic pursuits with diverse interests such as b
 
 
 ## 🏫 Education
-- M.S. Student, Statistics | Duke University ( _August 2023_ to _May 2025_ )
-- B.S., Statistical Science (Data Science Concentration) & Minor in Computer Science | Duke University ( _August 2021_ to _May 2023_)
-- (Transfer Out) Statistics and Data Science | University of California, Santa Barbara ( _September 2019_ to _June 2021_)
+- M.S. Student, Statistics || Duke University ( _May 2025_ )
+- B.S., Statistical Science (Data Science Concentration) & Minor in Computer Science | Duke University ( _May 2023_)
+- (Transfer Out) Statistics and Data Science | University of California, Santa Barbara ( _June 2021_)
 
 ## 👩‍💻 Work Experience
 **Position 1**
