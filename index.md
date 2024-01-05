@@ -23,7 +23,7 @@ In my free time, I balance my academic pursuits with diverse interests such as b
 
 ## 👩‍💻 Experience Highlights
 
-**Student Research Affiliate @ Duke AI Health** (_May 2022_ – _Dec 2022_)
+**Student Research Affiliate @** [**Duke AI Health**](https://aihealth.duke.edu/) (_May 2022_ – _Dec 2022_)
 
 *Machine Learning in Healthcare: Lab Test Harmonization*
 - Selected as the sole undergraduate amidst a competitive pool of professional candidates for Duke AI Health 2022 cohort, and earned the prestigious opportunity to present research findings at [Duke AI Health Poster Showcase 2022](https://aihealth.duke.edu/poster-showcase-2022/)
@@ -42,12 +42,9 @@ In my free time, I balance my academic pursuits with diverse interests such as b
 - Paper Publication: [*Audio-Visual Single-Channel Signal Separation based on Big Data Augmentation*](https://ieeexplore.ieee.org/document/9332362) published by IEEE during International Conference on Computer Networks and Electronic Communications (ICCNEC 2020)
 
 
+### Technical Skills: R, Python, SQL, SAS, AWS SageMaker, Git
 
-#### Technical Skills: R, Python, SQL, SAS, AWS SageMaker, Git
 
-## 🌐 Projects
-### Paper
-[Publication](https://ieeexplore.ieee.org/document/9332362)
 
 
 
