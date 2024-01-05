@@ -29,7 +29,7 @@ In my free time, I balance my academic pursuits with diverse interests such as b
 - Selected as the sole undergraduate amidst a competitive pool of professional candidates for Duke AI Health 2022 cohort, and earned the prestigious opportunity to present research findings at [Duke AI Health Poster Showcase 2022](https://aihealth.duke.edu/poster-showcase-2022/)
 - Optimized lab test deduplication of grouper labels by adopting and fine-tuning Bio-BERT NLP structure pre-trained on biomedical corpora; created a new method of cross-comparison similarity evaluation based on ground-truth text embeddings, and uncovered 95% performance boost in the application to Duke lab *analyte* database
 
-**Data Science Intern @ **[**Hiya**](https://www.hiya.com/) (_May 2022_ – _Aug 2022_)
+**Data Science Intern @** [**Hiya**](https://www.hiya.com/) (_May 2022_ – _Aug 2022_)
 
 *Hiya Shield Project: Robocall Identification & Screening*
 - Spearheaded a robocall screening process using NLP text embeddings to determine if an audio sample (or its transcript) is from a known robocall database 
@@ -39,7 +39,7 @@ In my free time, I balance my academic pursuits with diverse interests such as b
 
 *Cross-Media Retrieval Based on Big Data Technology*
 - Improved performance of permutation invariant training with mean squared error loss through BLSTM/LSTM and CNN in a key media separation technique; proved the improvement in two separation methods – the FIX strategy and the masking-based data augmentation strategy  –  and subsequently developed independent research project
-- Paper Publication: [Audio-Visual Single-Channel Signal Separation based on Big Data Augmentation](https://ieeexplore.ieee.org/document/9332362) published by IEEE during International Conference on Computer Networks and Electronic Communications (ICCNEC 2020)
+- Paper Publication: [*Audio-Visual Single-Channel Signal Separation based on Big Data Augmentation*](https://ieeexplore.ieee.org/document/9332362) published by IEEE during International Conference on Computer Networks and Electronic Communications (ICCNEC 2020)
 
 
 
