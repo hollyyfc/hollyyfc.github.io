@@ -21,10 +21,12 @@ In my free time, I balance my academic pursuits with diverse interests such as b
 - **B.S.**, Statistical Science <br>(Data Science Concentration) <br>& Minor in Computer Science | Duke University (_May 2023_)
 - Statistics and Data Science | University of California, Santa Barbara <br>(Transfer Out on _June 2021_)
 
-## 👩‍💻 Work Experience
-**Position 1**
-- a
-- b
+## 👩‍💻 Experience Highlights
+
+**Student Research Affiliate @ Duke AI Health** (_May 2022_ – _Dec 2022_)
+*Topic: Machine Learning in Healthcare: Lab Test Harmonization*
+- Selected as the sole undergraduate amidst a competitive pool of professional candidates for Duke AI Health 2022 cohort, and earned the prestigious opportunity to present research findings at Duke AI Health Poster Showcase 2022
+- Optimized lab test deduplication of grouper labels by adopting and fine-tuning Bio-BERT NLP structure pre-trained on biomedical corpora; created a new method of cross-comparison similarity evaluation based on ground-truth text embeddings, and uncovered 95% performance boost in the application to Duke lab analyte database
 
 #### Technical Skills: R, Python, SQL, SAS, AWS SageMaker, Git
 
