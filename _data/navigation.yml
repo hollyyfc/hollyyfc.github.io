@@ -2,14 +2,14 @@
 
 # - title: Home
 #   url: /
-- title: Posts
-  url: /posts/
-- title: Categories
-  url: /categories/
-- title: Tags
-  url: /tags/
-- title: Recipes
-  url: /recipes/
+- title: Research & Publications
+  url: /research/
+- title: Projects
+  url: /projects/
+- title: Activities & Awards
+  url: /activities/
+- title: Teaching
+  url: /teaching/
 - title: Search
   url: /search/
 # - title: External Page

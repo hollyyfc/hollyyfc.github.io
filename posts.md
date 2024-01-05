@@ -1,7 +1,7 @@
 ---
-title: Post Archive
+title: Research & Publications
 layout: posts
-permalink: /posts/
+permalink: /research/
 show_excerpts: false
 entries_layout: list
 ---
