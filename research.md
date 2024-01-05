@@ -1,5 +1,5 @@
 ---
-title: Research & Publications
+title: Research
 layout: posts
 permalink: /research/
 show_excerpts: false
