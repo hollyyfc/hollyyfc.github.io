@@ -45,7 +45,7 @@ In my free time, I balance my academic pursuits with diverse interests such as b
 ## ⚙️ Skillset
 
 ![Skillset](skills.png)
-<div style="text-align: right"> *© Visualization is created by scraping through my resume using R wordcloud2 package.* </div>
+<div style="text-align: right"> <i>© Visualization is created by scraping through my resume using R wordcloud2 package.</i> </div>
 
 
 
