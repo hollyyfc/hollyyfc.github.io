@@ -9,7 +9,11 @@ title:
 
 # 👋 Hello there!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. 
+I am an aspiring data scientist and Master's student in the Department of  Statistical Science at Duke University, where I also obtained my Bachelor's in Statistical Science (Data Science Concentration) and a Minor in Computer Science. My academic journey has been marked by a deep research commitment to statistical analysis, machine learning, and data science, with special focuses on natural language processing, Bayesian statistics, and creative data visualizations. Take a look of my previous **research** and **intern projects** in R and Python, and let me know if you are interested! [👉View My Resume]("https://hollyyfc.github.io/Yifan\ \(Holly\)\ Cui\ Resume.pdf")
+
+Beyond academia, I was an active member of the Duke community, contributing as a Project Manager & Data Analyst in the **Duke Impact Investment Group** and as the Chief Technology Officer in the **Duke Statistical Science Majors Union**. Additionally, I have been a **teaching assistant** with 3+ years of experience. Feel free to reach out for project advice and business case studies. 
+
+In my free time, I balance my academic pursuits with diverse interests such as boxing, cycling, and music producing. I was also a board member of **UCSB International Student Advisory Board** advocating for international students' rights. Read more and get engaged!
 
 
 ## 🏫 Education
