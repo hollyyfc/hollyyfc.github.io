@@ -1,9 +1,9 @@
 ---
 title: Research
-layout: posts
+layout: collection
 permalink: /research/
-show_excerpts: false
-entries_layout: list
+collection: research
+entries_layout: grid
 ---
 
 hello hello hello

@@ -82,7 +82,7 @@ plugins:
   
 # Collections
 collections:
-  projects:
+  research:
     output: true
     permalink: /:collection/:path/
 
@@ -97,8 +97,8 @@ defaults:
       share: true
   # Projects defaults
   - scope:
-      path: "_projects"
-      type: projects
+      path: "_research"
+      type: research
     values:
       layout: post
       comments: true
@@ -106,14 +106,20 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
-  email:
+  name: Holly Cui
+  picture: /images/logo.png
+  email: yifan.cui@duke.edu
   twitter:
   links:
-    - title:
-      url:
-      icon:
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/holly-cui-4b4520236/
+      icon: fab fa-linkedin-in
+    - title: GitHub
+      url: https://github.com/hollyyfc
+      icon: fab fa-github-square
+    - title: Instagram
+      url: https://www.instagram.com/holly_cui
+      icon: fab fa-instagram
 
 # Footer Links
 footer_links:

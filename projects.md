@@ -1,9 +1,9 @@
 ---
 title: Projects
-layout: collection
+layout: posts
 permalink: /projects/
-collection: projects
-entries_layout: grid
+show_excerpts: false
+entries_layout: list
 ---
 
 hello hello hello
