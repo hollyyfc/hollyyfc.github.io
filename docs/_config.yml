@@ -84,9 +84,9 @@ plugins:
 
 # Collections
 collections:
-  projects:
-    output: true
-    permalink: /:collection/:path/
+  - projects:
+      output: true
+      permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
