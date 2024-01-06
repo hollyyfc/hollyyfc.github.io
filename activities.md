@@ -5,7 +5,7 @@ header: false
 title: Activities & Awards
 ---
 
-------------------------------------------------------------------------------
+------------------------------------------------------------------------------  
 
 ## 🙌 Club Affiliations
 
@@ -23,7 +23,8 @@ title: Activities & Awards
 
 **Exec. Board Member @** [**UCSB International Student Advisory Board**](https://internationalvistas.blogspot.com/) (_Jan 2021_ - _Jun 2021_)
 - Conducted qualitative analyses identifying issues that international students are struggling with; designed a [website](https://internationalstudentsadvocationcovid.weebly.com/) for research publishment advocating for international students' rights
-- Composed [blog posts](http://internationalvistas.blogspot.com/) and organized talks such as the annual InTalkNational meeting
+- Composed [blog posts](http://internationalvistas.blogspot.com/) and organized talks such as the annual InTalkNational meeting  
+
 
 ## 🏆 Awards
 
