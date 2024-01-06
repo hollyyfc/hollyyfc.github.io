@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: categories
+layout: collection
 permalink: /projects/
 show_excerpts: false
 entries_layout: list
