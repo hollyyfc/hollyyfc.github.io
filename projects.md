@@ -2,8 +2,8 @@
 title: Projects
 layout: collection
 permalink: /projects/
-show_excerpts: false
-entries_layout: list
+collection: recipes
+entries_layout: grid
 ---
 
 hello hello hello
