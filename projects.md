@@ -1,8 +1,8 @@
 ---
 title: Projects
 layout: collection
-permalink: /projects/
-collection: _recipes
+permalink: /recipes/
+collection: recipes
 entries_layout: grid
 ---
 
