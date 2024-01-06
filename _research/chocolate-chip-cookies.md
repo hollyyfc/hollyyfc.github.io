@@ -2,7 +2,6 @@
 title: "Machine Learning in Healthcare: Lab Test Harmonization"
 image: 
   path: /images/HDSfront.png
-  thumbnail: /images/HDSfront.png
 ---
 
 As public health increasingly moves toward automated capture, lab data are becoming an invaluable asset for public health agencies. However, a major challenge emerges when the code sets for lab test names appear differently from one information system to another, and the raw data inputs from different labs are of poor quality. Building on top of the issue, we bring up our core question:
