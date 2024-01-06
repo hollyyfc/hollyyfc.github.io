@@ -1,34 +1,52 @@
 ---
-title: "Chocolate Chip Cookies"
+title: "Machine Learning in Healthcare: Lab Test Harmonization"
 image: 
-  path: /images/logo.png
-  thumbnail: /images/logo.png
+  path: /images/HDSfront.png
+  thumbnail: /images/HDSfront.png
 ---
 
-A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
+As public health increasingly moves toward automated capture, lab data are becoming an invaluable asset for public health agencies. However, a major challenge emerges when the code sets for lab test names appear differently from one information system to another, and the raw data inputs from different labs are of poor quality. Building on top of the issue, we bring up our core question:
 
-The traditional recipe combines a dough composed of butter and both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other types of chocolate as well as additional ingredients such as nuts or oatmeal.
+**Given two lab test inputs (raw names), can we harmonize the same type (grouper)?** For example, a raw name *ACT PARTIAL THROMBOPLASTIN TIME (BKR)* belongs to a grouper type of *aptt*.
 
-This recipe makes 4 dozen cookies.
+### What is Harmonization?
 
-## Ingredients
+Harmonization is essentially a process of NLP deduplication. In this project, we attempt to: 
+- Match messy lab test data of poor quality
+- Identify the same test type based on texts provided by the structured dataset
+- Validate the process of cross-connection between different datasets or test representations
 
-* 2 1/4 cups all-purpose flour
-* 1 teaspoon baking soda
-* 1/2 teaspoon salt
-* 1 cup butter, softened and cut to pieces
-* 1 cup sugar
-* 1 cup light brown sugar, packed
-* 2 teaspoons vanilla extract
-* 2 large eggs
-* 2 cups semi-sweet chocolate chips
-* 1/2 teaspoon nutmeg (optional)
-* 1 cup chopped pecans or walnuts (optional)
+## Part I: Text-Space Matching
 
-## Directions
+✨ Find details [HERE](https://docs.google.com/presentation/d/1tCqjBRsl3fW9TjSYCGKtXaSswkXwlyfSaqDJqcTCKN4/edit?usp=sharing)
 
-1. Preheat the oven to 350 F.
-2. In a medium bowl, whisk flour with baking soda, nutmeg and salt.
-3. In a large bowl, beat butter with sugar and brown sugar until creamy and light. Add vanilla and eggs, one at a time, and mix until incorporated.
-4. Gradually add dry mixture into the butter-sugar wet blend, mixing with a spatula until combined. Add chocolate chips and nuts until just mixed.
-5. Drop tablespoon-sized clumps onto un-greased cookie sheets. Bake for 8-12 minutes, or until pale brown. Allow to cool on the pan for a minute or three, then transfer cookies to a wire rack to finish cooling.
+- Generate test names embeddings with [Bio-BERT](https://doi.org/10.1093/bioinformatics/btz682), a BERT architecture pretrained on biomedical corpora.
+- Compare cosine similarity between raw names and groupers embeddings within identified ground-truth data and match each unique raw name with the grouper representing the highest similarity in cross-comparison.
+- Evaluations and diagnosis on the model performance show that our current Bio-BERT structure performs well on linking specific groupers label (such as *bilirubin*, *fibrinogen*, and *hematocrit*) to raw names with high AUC scores and clear similarity threshold to separate the grouper vs. non-grouper.
+
+## Part II: Text-Numeric Concatenated Matching
+
+✨ Find details [HERE](https://github.com/hollyyfc/Duke-AI-Health-Data-Science-2022.git)
+
+- Incorporate numeric test result for each unique raw names in the lab database for accuracy, calculate a 7-dimension statistics (minimum, 25 th percentile, median, 75 th percentile, maximum, mean, and standard deviation) based on observations within each raw name and grouper label for numeric embeddings, and repeat the cross-comparison and AUC evaluation process. The legitimacy of numeric embeddings has been pre-evaluated by two-component PCA.
+- Concatenate both numeric and text embeddings to evaluate the full performance of the model.
+
+![poster](/images/HDSposter.png)
+
+## Results
+
+Based on numeric-only embeddings, we show that the ability for linking raw names to correct labels is effective for some groupers but limited to relatively low predictive performance for others.
+
+With the addition of text embeddings from Bio-BERT, the full model yields high-performing ability in identification and linkage, capturing both the distribution characteristics of numeric test results and the semantic meaning of the biomedical text labels. This indicates a promising results on the integrative method to include more essential information while avoiding overfitting on the current dataset.
+
+
+
+
+
+
+
+
+
+
+
+
