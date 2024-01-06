@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning in Healthcare: Lab Test Harmonization"
 image: 
-  path: /images/pure.jpeg
+  path: /images/align.jpeg
   thumbnail: /images/HDSfront.png
 ---
 
