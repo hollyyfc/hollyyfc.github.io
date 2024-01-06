@@ -1,6 +1,5 @@
 ---
 title: "Chocolate Chip Cookies"
-collection: recipes
 image: 
   path: /images/chocolate-chip-cookies-lg.jpg
   thumbnail: /images/chocolate-chip-cookies-400x200.jpg
