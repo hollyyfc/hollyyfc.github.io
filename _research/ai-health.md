@@ -41,7 +41,6 @@ Based on numeric-only embeddings, we show that the ability for linking raw names
 With the addition of text embeddings from Bio-BERT, the full model yields high-performing ability in identification and linkage, capturing both the distribution characteristics of numeric test results and the semantic meaning of the biomedical text labels. This indicates a promising results on the integrative method to include more essential information while avoiding overfitting on the current dataset.
 
 
-<script src="https://github.com/hollyyfc/Duke-AI-Health-Data-Science-2022/blob/6affc40b0158629cd69d074d14efc5e2ab83b7f1/lab_test_harmonization_REDO.ipynb"></script>
 
 
 

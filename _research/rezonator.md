@@ -6,22 +6,12 @@ image:
   caption: "Photo from [Vecteezy.com](https://www.vecteezy.com/)"
 ---
 
-A peanut butter cookie is a type of cookie that is distinguished for having peanut butter as a principal ingredient. The cookie generally originated in the United States, its development dating back to the 1910s.
+The research project conducted at the University of California, Santa Barbara, under the realm of Data Science and Natural Language Processing (NLP), aimed to enhance the understanding and processing of linguistic patterns and resonance, particularly in the context of language games. 
 
-## Ingredients
+One of the project's key objectives was to develop sophisticated methods for dissecting the Chinese corpus into distinct intonation units, enabling a more granular analysis of spoken language nuances. This endeavor involved the implementation of advanced data processing techniques and deep linguistic analysis, which were pivotal in refining the approach to language modeling. Manual inspections of the automated separations from native speakers and linguists based on listening to the original audio conversations are crucial steps as well to capture and correct certain errors.
 
-* 1 cup unsalted butter
-* 1 cup crunchy peanut butter
-* 1 cup white sugar
-* 1 cup packed brown sugar
-* 2 eggs 2 
-* 1/2 cups all-purpose flour 
-* 1 teaspoon baking powder
-* 1/2 teaspoon salt
-* 1 1/2 teaspoons baking soda
+Central to this research was the construction and training of NLP models tailored to process spoken language data effectively. This aspect of the project was instrumental in the development of *Rezonator*, a prototype resonance-optimizing linguistic application. *Rezonator* stands as a significant innovation in linguistic technology, offering novel tools for the analysis and enhancement of linguistic resonance. The research team's contributions in building Rezonator under Prof. John Du Bois showcased not only a proficiency in handling complex datasets and NLP models but also a commitment to advancing the field of language studies through technological solutions. The project thus represents an improvement in the intersection of language analysis and data science, setting a new tool in the application of NLP in understanding and optimizing language resonance.
 
-## Directions
+<embed src="https://rezonator.com/" style="width:500px; height: 300px;">
 
-1. Cream butter, peanut butter, and sugars together in a bowl; beat in eggs.
-2. In a separate bowl, sift flour, baking powder, baking soda, and salt; stir into butter mixture. Put dough in refrigerator for 1 hour.
-3. Roll dough into 1 inch balls and put on baking sheets. Flatten each ball with a fork, making a crisscross pattern. Bake in a preheated 375 degrees F oven for about 10 minutes or until cookies begin to brown.
+
