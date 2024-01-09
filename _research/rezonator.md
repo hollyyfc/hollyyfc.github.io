@@ -3,7 +3,7 @@ title: "Data Science and Natural Language Processing for Language Game"
 image: 
   path: /images/banner1.jpg
   thumbnail: /images/ucsb.png
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  caption: "Photo from [Vecteezy.com](https://www.vecteezy.com/)"
 ---
 
 A peanut butter cookie is a type of cookie that is distinguished for having peanut butter as a principal ingredient. The cookie generally originated in the United States, its development dating back to the 1910s.
