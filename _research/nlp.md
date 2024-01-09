@@ -1,8 +1,8 @@
 ---
-title: "Peanut Butter Cookies"
+title: "Data Science and Natural Language Processing for Language Game"
 image: 
-  path: /images/peanut-butter-cookies-lg.jpg
-  thumbnail: /images/peanut-butter-cookies-400x200.jpg
+  path: /images/banner1.jpg
+  thumbnail: /images/ucsb.png
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
