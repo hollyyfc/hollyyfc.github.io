@@ -10,5 +10,5 @@ Cocktail party problem has attracted more attentions in recent years in the spee
 
 In this paper, we explored to improve the baseline permutation invariant training (PIT) -based speech separation systems by two data augmentation methods. One resides on the visual-based information being selected to determine the permutation of separated speakers and improve the separation performance (the *FIX* strategy). The other is based on the *SpecAugment* which was explored with big data augmentation method to improve the performance of separation (the masking-based data augmentation strategy). Finally, we achieved dB of SDR on a mixed dataset using TCD-TIMIT corpus.
 
-<embed src="https://ieeexplore.ieee.org/document/9332362" style="width:500px; height: 300px;">
+<embed src="https://github.com/hollyyfc/hollyyfc.github.io/blob/417ad64ed362d046a2507321c9de8762462e781b/Audio-Visual_Single-Channel_Signal_Separation_Based_on_Big_Data_Augmentation%20copy.pdf" style="width:500px; height: 300px;">
 
