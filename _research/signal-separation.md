@@ -1,7 +1,7 @@
 ---
 title: "Cross-Media Retrieval Based on Big Data Technology"
 image: 
-  path: /images/align.jpeg
+  path: /images/banner.jpg
   thumbnail: /images/paper.png
 ---
 
