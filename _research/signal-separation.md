@@ -2,7 +2,7 @@
 title: "Cross-Media Retrieval Based on Big Data Technology"
 image: 
   path: /images/banner1.jpg
-  thumbnail: /images/paper.png
+  thumbnail: /images/signal.png
 ---
 
 Cocktail party problem has attracted more attentions in recent years in the speech community. Specially, the single-channel multi-talker speech separation and recognition has become a research hotspot. Also, the visual based information has been adopted to improve the performance of speech separation and speech recognition. 
