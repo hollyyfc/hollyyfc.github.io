@@ -75,6 +75,8 @@ As a practical example, our waffle chart featured on the first tab of the websit
 
 Or refer to the link at [https://tinyurl.com/colorblindapp](https://tinyurl.com/colorblindapp)
 
+Source code can be found on our [**GitHub repository**](https://github.com/vizdata-f21/project-2-stats_r_us.git)
+
 <embed src="https://tinyurl.com/colorblindapp" style="width:800px; height: 500px;">
 
 
