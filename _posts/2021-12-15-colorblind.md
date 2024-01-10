@@ -15,9 +15,9 @@ Our project embarked on the goal of increasing awareness and understanding of co
 Color blindness affects approximately 1 in 12 men and 1 in 200 women globally, summing up to around 300 million people. While often genetic, conditions such as diabetes, multiple sclerosis, or aging can also contribute to its occurrence. Our project zeroes in on the four most prevalent types of colorblindness: *Protanopia* (red-green), *Deuteranopia* (green deficiency), *Tritanopia* (blue-yellow), and *Monochromatism* (absence of color perception). It's important to acknowledge that our understanding of colorblindness is largely based on research conducted in Western populations, and variations may exist globally.
 
 <p align="center" width="100%">
-  <img src="/images/intro.gif" alt="Intro" width="120%"/>
+  <img src="/images/intro.gif" alt="Intro" width="90%"/>
 </p>
-<div style="text-align: right"> <i>© Rob Woods by www.allaboutvision.com.</i> </div>
+<div style="text-align: center"> <i>© Rob Woods by www.allaboutvision.com.</i> </div>
 
 Our experience in the data visualization course has underscored the critical role of color in various domains, ranging from art and aesthetics to education and scientific research. This insight inspired our project's theme and three primary objectives:
 
@@ -25,7 +25,6 @@ Our experience in the data visualization course has underscored the critical rol
 2. Provide an immersive experience allowing users to view the world through the lens of someone with color blindness.
 3. Offer a test feature to help users identify if they might be affected by one of the four main types of color blindness.
 
-Therefore, blending educational elements with interactive features, we aims to foster greater empathy and understanding while providing valuable insights into the challenges faced by those with color blindness.
 
 ## The Math: Explained
 
@@ -39,11 +38,29 @@ Therefore, blending educational elements with interactive features, we aims to f
 
 **Quantifying Colorblindness Severity**: A unique feature of our app is the ability to define and visualize varying degrees of color blindness. This concept, while not conventionally used in medical diagnostics, was essential for the functionality of our app, particularly for the sliding scale feature in the colorblind filter section. By creating a continuous variable to represent the severity of color blindness, we enabled users to adjust the filter and experience different levels of color perception challenges. This innovative approach provides a practical tool for understanding the spectrum of color vision deficiencies.
 
+## Feature 1: Color Blindness Test
 
+The "Are You Color Blind" tab is an integral feature of our app, offering users an interactive experience to understand different types of color blindness. It's important to clarify that this test is a simplified tool meant for awareness and education, not a professional medical diagnosis. Its primary purpose is to serve as an indicator of potential color vision deficiencies.
 
+Our design approach for the test is innovative and user-centric. Unlike the traditional Ishihara test, which uses fixed patterns and colors, our test allows users to actively participate by selecting colors and types of color blindness. The test generates two plots: an original plot with the user-selected colors and a colorblind plot, where these colors are adjusted using our predefined color blindness filters. This unique design uses generative art to maintain visual consistency while introducing randomness in color and color blindness choices. The two plots are accompanied by mutated stacked bar charts that visually represent the user's color selections. To avoid biasing the user's perception, the colorblind plot is simply labeled "Colorblind" rather than specifying a particular type of color blindness.
 
+Upon viewing these plots, users are asked to assess the color differences and respond by selecting either a green button (indicating "very different colors") or a red button ("similar colors"). This feedback triggers a result message that provides information about the represented type of color blindness and general advice. Our careful choice of language in the response options aims to prevent overdiagnosis and undue concern about color blindness.
 
+<p align="center" width="100%">
+  <img src="/images/test.png" alt="Test" width="80%"/>
+</p>
 
+## Feature 2: Color Blindness Filter
+
+The "Color Blindness Filter," positioned as the third tab in our interactive web application, offers users a unique window into the experiences of colorblind individuals. This feature is designed to simulate the perception of the world as seen by someone with various types of color blindness, at different levels of severity. To facilitate this, we provide a selection of built-in images that showcase a broad spectrum of colors. Additionally, users have the option to upload their own images for a more personalized experience.
+
+The core functionality of the filter lies in its ability to process the input image—whether one of our built-in selections or a user-uploaded photo—and modify its RGB values through matrix transformations. Each type of color blindness — *Protanopia, Deuteranopia, Tritanopia, and Monochromatism* — requires a unique transformation to simulate its visual effect accurately. A key feature of our filter is the sliding scale that adjusts the severity of color blindness. This interactivity allows users to visualize milder forms of color blindness, such as *Protanomaly* for *Protanopia*, *Deuteranomaly* for *Deuteranopia*, and *Tritanomaly* for *Tritanopia*. *Monochromatism*, often considered the most severe form of color blindness, is also represented in our model.
+
+Through this interactive filter, users can gain a deeper understanding of what it means to live with color blindness, experiencing firsthand the varying degrees of this condition. The feature not only serves as an educational tool but also fosters empathy by providing a vivid illustration of the challenges faced by those with color vision deficiencies.
+
+<p align="center" width="100%">
+  <img src="/images/filter.png" alt="Filter" width="80%"/>
+</p>
 
 
 
