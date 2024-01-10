@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: posts
+layout: tags
 permalink: /projects/
 show_excerpts: false
 entries_layout: list
