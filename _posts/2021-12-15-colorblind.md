@@ -15,7 +15,7 @@ Our project embarked on the goal of increasing awareness and understanding of co
 Color blindness affects approximately 1 in 12 men and 1 in 200 women globally, summing up to around 300 million people. While often genetic, conditions such as diabetes, multiple sclerosis, or aging can also contribute to its occurrence. Our project zeroes in on the four most prevalent types of colorblindness: *Protanopia* (red-green), *Deuteranopia* (green deficiency), *Tritanopia* (blue-yellow), and *Monochromatism* (absence of color perception). It's important to acknowledge that our understanding of colorblindness is largely based on research conducted in Western populations, and variations may exist globally.
 
 <p align="center" width="100%">
-  <img src="/images/intro.gif" alt="Intro" width="90%"/>
+  <img src="/images/intro.gif" alt="Intro" width="80%"/>
 </p>
 <div style="text-align: center"> <i>© Rob Woods by www.allaboutvision.com.</i> </div>
 
@@ -47,7 +47,7 @@ Our design approach for the test is innovative and user-centric. Unlike the trad
 Upon viewing these plots, users are asked to assess the color differences and respond by selecting either a green button (indicating "very different colors") or a red button ("similar colors"). This feedback triggers a result message that provides information about the represented type of color blindness and general advice. Our careful choice of language in the response options aims to prevent overdiagnosis and undue concern about color blindness.
 
 <p align="center" width="100%">
-  <img src="/images/test.png" alt="Test" width="80%"/>
+  <img src="/images/test.png" alt="Test" width="90%"/>
 </p>
 
 ## Feature 2: Color Blindness Filter
@@ -59,11 +59,21 @@ The core functionality of the filter lies in its ability to process the input im
 Through this interactive filter, users can gain a deeper understanding of what it means to live with color blindness, experiencing firsthand the varying degrees of this condition. The feature not only serves as an educational tool but also fosters empathy by providing a vivid illustration of the challenges faced by those with color vision deficiencies.
 
 <p align="center" width="100%">
-  <img src="/images/filter.png" alt="Filter" width="80%"/>
+  <img src="/images/filter.png" alt="Filter" width="90%"/>
 </p>
 
 
+## Impact and Audience Engagement
 
+Our web application, "Exploring Color Blindness," is primarily aimed at individuals seeking a deeper understanding of color blindness, those interested in self-testing for color vision deficiencies, and creators who aspire to make their visual content more accessible. The overarching goal of our site is to inspire a reflective consideration of the colors we encounter daily and often take for granted. We aim to cultivate an awareness that extends beyond mere knowledge acquisition, motivating users to integrate accessibility considerations into their routine activities.
+
+One of our core aspirations is that users, after engaging with our app, will be more inclined to employ colorblind-friendly palettes in their data visualizations, whether in academic settings or professional environments. The significance of keeping colorblind individuals in mind while crafting meaningful visualizations cannot be overstated. This is particularly relevant at Duke University and, more specifically, within the Statistics Department, where students frequently engage in data visualization projects. Our app underscores the importance of utilizing accessibility-focused tools and color schemes, such as `scale_viridis()`, to ensure that visualizations are comprehensible and appreciated by viewers with color vision deficiencies.
+
+As a practical example, our waffle chart featured on the first tab of the website incorporates colors from Paul Tol’s Colorblind Safe Colour Schemes, which are purposefully designed for enhanced accessibility. This implementation serves as a model for others, encouraging the adoption of similar practices in their work. By setting this precedent, we hope to foster a culture of inclusivity both within the Duke community and beyond, paving the way towards a more considerate and accommodating society where visual content is accessible to all.
+
+## 👇 Try it out!
+
+Or refer to the link at [https://tinyurl.com/colorblindapp](https://tinyurl.com/colorblindapp)
 
 <embed src="https://tinyurl.com/colorblindapp" style="width:800px; height: 500px;">
 
