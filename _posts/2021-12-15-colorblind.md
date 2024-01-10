@@ -14,7 +14,9 @@ Our project embarked on the goal of increasing awareness and understanding of co
 
 Color blindness affects approximately 1 in 12 men and 1 in 200 women globally, summing up to around 300 million people. While often genetic, conditions such as diabetes, multiple sclerosis, or aging can also contribute to its occurrence. Our project zeroes in on the four most prevalent types of colorblindness: *Protanopia* (red-green), *Deuteranopia* (green deficiency), *Tritanopia* (blue-yellow), and *Monochromatism* (absence of color perception). It's important to acknowledge that our understanding of colorblindness is largely based on research conducted in Western populations, and variations may exist globally.
 
-![Intro](/images/intro.gif)
+<p align="center" width="100%">
+  <img src="/images/intro.gif" alt="Intro" width="120%"/>
+</p>
 <div style="text-align: right"> <i>© Rob Woods by www.allaboutvision.com.</i> </div>
 
 Our experience in the data visualization course has underscored the critical role of color in various domains, ranging from art and aesthetics to education and scientific research. This insight inspired our project's theme and three primary objectives:
