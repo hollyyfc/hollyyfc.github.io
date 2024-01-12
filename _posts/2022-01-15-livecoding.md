@@ -6,4 +6,8 @@ tags:
 last_modified_at: 2018-02-01T12:54:35-05:00
 ---
 
-{% include responsive-embed url="https://youtu.be/EIhMdYM_aGI?si=VQmr5dakPXjLaz05" ratio="16:9" %}
+{% include responsive-embed url="https://youtu.be/EIhMdYM_aGI?si=VQmr5dakPXjLaz05" %}
+
+<div class="responsive-embed responsive-embed-16by9">
+  <iframe class="responsive-embed-item" src="https://youtu.be/EIhMdYM_aGI?si=VQmr5dakPXjLaz05"></iframe>
+</div>
