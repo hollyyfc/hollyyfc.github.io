@@ -12,5 +12,7 @@ In this paper, we explored to improve the baseline permutation invariant trainin
 
 ✨ Find the publication [HERE](https://github.com/hollyyfc/hollyyfc.github.io/blob/417ad64ed362d046a2507321c9de8762462e781b/Audio-Visual_Single-Channel_Signal_Separation_Based_on_Big_Data_Augmentation%20copy.pdf)
 
+<embed src="https://hollyyfc.github.io/Audio-Visual_Single-Channel_Signal_Separation_Based_on_Big_Data_Augmentation%20copy.pdf" width="800" height="600" type="application/pdf">
+
 *Y. Cui and Y. Wang, "*[*Audio-Visual Single-Channel Signal Separation Based on Big Data Augmentation*](https://ieeexplore.ieee.org/document/9332362)*," 2020 IEEE 3rd International Conference of Safe Production and Informatization (IICSPI), Chongqing City, China, 2020, pp. 636-640, doi: 10.1109/IICSPI51290.2020.9332362.*
 
