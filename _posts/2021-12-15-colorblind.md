@@ -8,6 +8,11 @@ tags:
 
 This project was created by Holly Cui, Parker Dingman, Sophie Dalldorf, and Kate Neal under the instruction of Professor Mine Cetinkaya-Rundel for the Fall 2021 section of [STA 313: Advanced Data Visualization](https://vizdata.org/) at Duke University.
 
+<embed src="https://tinyurl.com/colorblindapp" style="width:800px; height: 500px;">
+
+Or refer to the link at [https://tinyurl.com/colorblindapp](https://tinyurl.com/colorblindapp).
+Source code can be found on our [**GitHub repository**](https://github.com/vizdata-f21/project-2-stats_r_us.git).
+
 ## Introduction
 
 Our project embarked on the goal of increasing awareness and understanding of colorblindness through a creatively designed **R-Shiny** based web application. This initiative is not just a technological endeavor but also a bridge to greater empathy and insight into the world as seen by individuals with color vision deficiencies.
@@ -71,13 +76,11 @@ One of our core aspirations is that users, after engaging with our app, will be 
 
 As a practical example, our waffle chart featured on the first tab of the website incorporates colors from Paul Tol’s Colorblind Safe Colour Schemes, which are purposefully designed for enhanced accessibility. This implementation serves as a model for others, encouraging the adoption of similar practices in their work. By setting this precedent, we hope to foster a culture of inclusivity both within the Duke community and beyond, paving the way towards a more considerate and accommodating society where visual content is accessible to all.
 
-## 👇 Try it out!
 
-Or refer to the link at [https://tinyurl.com/colorblindapp](https://tinyurl.com/colorblindapp)
 
-Source code can be found on our [**GitHub repository**](https://github.com/vizdata-f21/project-2-stats_r_us.git)
 
-<embed src="https://tinyurl.com/colorblindapp" style="width:800px; height: 500px;">
+
+
 
 
 
