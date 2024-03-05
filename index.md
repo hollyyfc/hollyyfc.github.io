@@ -23,6 +23,8 @@ In my free time, I balance my academic pursuits with diverse interests such as b
 
 ## 👩‍💻 Experience Highlights
 
+🚀 **Incoming Masters Statistician Intern @** [**Eli Lilly**](https://www.lilly.com/) (_May 2024_ – _Aug 2024_)
+
 **Student Research Affiliate @** [**Duke AI Health**](https://aihealth.duke.edu/) (_May 2022_ – _Dec 2022_)
 
 *Machine Learning in Healthcare: Lab Test Harmonization*
