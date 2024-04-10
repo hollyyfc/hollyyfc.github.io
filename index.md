@@ -26,9 +26,10 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 | ----------------- | ------------ | ---------------- | ------- |
 | **Duke University** | M.S. Student | Statistics  | May 2025  |
 | **Duke University** | B.S. | Statistical Science (Data Science Concentration) Minor in Computer Science | May 2023  |
-| **University of California, Santa Barbara** | (Transfer Out) | Statistics and Data Science | June 2021 |  
-  
-  
+| **University of California, Santa Barbara** | (Transfer Out) | Statistics and Data Science | June 2021 |
+
+  <br>
+
 
 ## ⚙️ Skillset
 
@@ -39,6 +40,8 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 
 ## 👩‍💻  Highlights & Updates
+
+**Opportunity Scholar @**[**posit::conf(2024)**](https://posit.co/conference/), [**Posit**](https://posit.co/) (_Aug 2024_)
 
 **Incoming Masters Statistician Intern @** [**Eli Lilly**](https://www.lilly.com/) (_May 2024_ – _Aug 2024_)
 
@@ -68,7 +71,7 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 <details>
   <summary>
-    <b>Lead Author & Research Assistant @ Tsinghua University</b> <i>(Jun 2020 – Mar 2021)</i>
+    <b>Lead Author & Research Assistant @<a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a></b> <i>(Jun 2020 – Mar 2021)</i>
   </summary>
   <i>Cross-Media Retrieval Based on Big Data Technology</i>
   <ul>
