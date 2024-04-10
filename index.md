@@ -15,7 +15,7 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 - Beyond academia, I actively contribute as a Project Manager & Data Analyst @ [Duke Impact Investing Group](https://www.linkedin.com/company/diig/) and as the Chief Technology Officer @ [Duke Statistical Science Majors Union](https://dukegroups.com/ssmu/home/). Additionally, I have been a [teaching assistant](/teaching) with 3+ years of experience. Feel free to reach out for project advice and business case studies. 
 - In my free time, I do 🥊 / 🚴‍♀️ / 🎹 / 🧁
 
-[👉View My Resume](/docus/Yifan%20(Holly)%20Cui%20Resume.pdf)
+<div style="text-align: right"> <i>[👉View My Resume](/docus/Yifan%20(Holly)%20Cui%20Resume.pdf)</i> </div>
 
 
 
