@@ -43,10 +43,13 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 <details>
   <summary> 
-    <b>Student Research Affiliate @</b> <a href="https://aihealth.duke.edu/">Duke AI Health</a>
-    <i>Machine Learning in Healthcare: Lab Test Harmonization</i>
+    <b>Student Research Affiliate @</b> <a href="https://aihealth.duke.edu/">Duke AI Health</a><i>(May 2022 – Dec 2022)</i>
   </summary>
-
+  <i>Machine Learning in Healthcare: Lab Test Harmonization</i>
+  <ul>
+    <li>Selected as the sole undergraduate amidst a competitive pool of professional candidates for Duke AI Health 2022 cohort, and earned the prestigious opportunity to present research findings at <a href="https://aihealth.duke.edu/poster-showcase-2022/">Duke AI Health Poster Showcase 2022</a></li>
+    <li>Optimized lab test deduplication of grouper labels by adopting and fine-tuning Bio-BERT NLP structure pre-trained on biomedical corpora; created a new method of cross-comparison similarity evaluation based on ground-truth text embeddings, and uncovered 95% performance boost in the application to Duke lab <i>analyte</i> database</li>
+  </ul>
 </details>
 
 **Student Research Affiliate @** [**Duke AI Health**](https://aihealth.duke.edu/) (_May 2022_ – _Dec 2022_)
