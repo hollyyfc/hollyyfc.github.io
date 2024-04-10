@@ -52,6 +52,8 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
   </ul>
 </details>
 
+  <br>
+
 <details>
   <summary> 
     <b>Data Science Intern @<a href="https://www.hiya.com/">Hiya</a></b> <i>(May 2022 – Aug 2022)</i>
@@ -63,6 +65,8 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
   </ul>
 </details>
 
+  <br>
+  
 <details>
   <summary>
     <b>Lead Author & Research Assistant @ Tsinghua University</b> <i>(Jun 2020 – Mar 2021)</i>
@@ -73,21 +77,6 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
     <li>Paper Publication: <i><a href="https://ieeexplore.ieee.org/document/9332362">Audio-Visual Single-Channel Signal Separation based on Big Data Augmentation</a></i> published by IEEE during International Conference on Computer Networks and Electronic Communications (ICCNEC 2020)</li>
   </ul>
 </details>
-
-
-
-
-**Data Science Intern @** [**Hiya**](https://www.hiya.com/) (_May 2022_ – _Aug 2022_)
-
-*Hiya Shield Project: Robocall Identification & Screening*
-- Spearheaded a robocall screening process using NLP text embeddings to determine if an audio sample (or its transcript) is from a known robocall database 
-- Quantified the relationship between audio duration and performance of robocall classification; identified the preferred audio truncation length and optimal similarity threshold, and achieved a 67% acceleration in user experience with the introduction of a customizable screening accuracy feature for Hiya mobile App 
-
-**Lead Author & Research Assistant @ Tsinghua University** (_Jun 2020_ – _Mar 2021_)
-
-*Cross-Media Retrieval Based on Big Data Technology*
-- Improved performance of permutation invariant training with mean squared error loss through BLSTM/LSTM and CNN in a key media separation technique; proved the improvement in two separation methods – the FIX strategy and the masking-based data augmentation strategy  –  and subsequently developed independent research project
-- Paper Publication: [*Audio-Visual Single-Channel Signal Separation based on Big Data Augmentation*](https://ieeexplore.ieee.org/document/9332362) published by IEEE during International Conference on Computer Networks and Electronic Communications (ICCNEC 2020)
 
 
 
