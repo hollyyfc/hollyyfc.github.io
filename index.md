@@ -28,9 +28,16 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 | **Duke University** | B.S. | Statistical Science (Data Science Concentration) Minor in Computer Science | May 2023  |
 | **University of California, Santa Barbara** | (Transfer Out) | Statistics and Data Science | June 2021 |
 
+
+## ⚙️ Skillset
+
+![Skillset](/images/skills.png)
+<div style="text-align: right"> <i>© Visualization is created by scraping through my resume using R wordcloud2 package.</i> </div>
+
+
 ## 👩‍💻 Experience Highlights
 
-🚀 **Incoming Masters Statistician Intern @** [**Eli Lilly**](https://www.lilly.com/) (_May 2024_ – _Aug 2024_)
+**Incoming Masters Statistician Intern @** [**Eli Lilly**](https://www.lilly.com/) (_May 2024_ – _Aug 2024_)
 
 **Student Research Affiliate @** [**Duke AI Health**](https://aihealth.duke.edu/) (_May 2022_ – _Dec 2022_)
 
@@ -51,10 +58,7 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 - Paper Publication: [*Audio-Visual Single-Channel Signal Separation based on Big Data Augmentation*](https://ieeexplore.ieee.org/document/9332362) published by IEEE during International Conference on Computer Networks and Electronic Communications (ICCNEC 2020)
 
 
-## ⚙️ Skillset
 
-![Skillset](/images/skills.png)
-<div style="text-align: right"> <i>© Visualization is created by scraping through my resume using R wordcloud2 package.</i> </div>
 
 
 
