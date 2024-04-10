@@ -41,7 +41,7 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 ## 👩‍💻  Highlights & Updates
 
-**Opportunity Scholar @**[**posit::conf(2024)**](https://posit.co/conference/), [**Posit**](https://posit.co/) (_Aug 2024_)<a aria-label="Send email" href="mailto:yifan.cui@duke.edu"><i class="icon fa fa-envelope"></i></a>
+**Opportunity Scholar @**[**posit::conf(2024)**](https://posit.co/conference/), [**Posit**](https://posit.co/) (_Aug 2024_)<a aria-label="Send email" href="mailto:yifan.cui@duke.edu"><i class="icon fa fa-envelope"></i></a> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/SVG/shiny.svg" width="10" height="10"/>
 
 **Incoming Masters Statistician Intern @** [**Eli Lilly**](https://www.lilly.com/) (_May 2024_ – _Aug 2024_)
 
