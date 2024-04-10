@@ -51,8 +51,8 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
     <li>Selected as the sole undergraduate amidst a competitive pool of professional candidates for Duke AI Health 2022 cohort, and earned the prestigious opportunity to present research findings at <a href="https://aihealth.duke.edu/poster-showcase-2022/">Duke AI Health Poster Showcase 2022</a></li>
     <li>Optimized lab test deduplication of grouper labels by adopting and fine-tuning Bio-BERT NLP structure pre-trained on biomedical corpora; created a new method of cross-comparison similarity evaluation based on ground-truth text embeddings, and uncovered 95% performance boost in the application to Duke lab <i>analyte</i> database</li>
   </ul>
-</details>
-  <br>
+</details> <br>
+
 <details>
   <summary> 
     <b>Data Science Intern @<a href="https://www.hiya.com/">Hiya</a></b> <i>(May 2022 – Aug 2022)</i>
@@ -62,8 +62,8 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
     <li>Spearheaded a robocall screening process using NLP text embeddings to determine if an audio sample (or its transcript) is from a known robocall database</li>
     <li>Quantified the relationship between audio duration and performance of robocall classification; identified the preferred audio truncation length and optimal similarity threshold, and achieved a 67% acceleration in user experience with the introduction of a customizable screening accuracy feature for Hiya mobile App</li>
   </ul>
-</details>
-  <br>
+</details> <br>
+
 <details>
   <summary>
     <b>Lead Author & Research Assistant @ Tsinghua University</b> <i>(Jun 2020 – Mar 2021)</i>
