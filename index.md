@@ -53,7 +53,6 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 </details>
 
   <br>
-
 <details>
   <summary> 
     <b>Data Science Intern @<a href="https://www.hiya.com/">Hiya</a></b> <i>(May 2022 – Aug 2022)</i>
@@ -66,7 +65,6 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 </details>
 
   <br>
-  
 <details>
   <summary>
     <b>Lead Author & Research Assistant @ Tsinghua University</b> <i>(Jun 2020 – Mar 2021)</i>
