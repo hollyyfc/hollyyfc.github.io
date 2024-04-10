@@ -43,7 +43,7 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 **Opportunity Scholar @**[**posit::conf(2024)**](https://posit.co/conference/), [**Posit**](https://posit.co/) (_Aug 2024_) 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="10" height="10"/>
           
 
 **Incoming Masters Statistician Intern @** [**Eli Lilly**](https://www.lilly.com/) (_May 2024_ – _Aug 2024_)
