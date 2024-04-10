@@ -35,12 +35,19 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 <div style="text-align: right"> <i>© Visualization is created by scraping through my resume using R wordcloud2 package.</i> </div>
 
   <br>
-  
-  \newline
 
-## 👩‍💻 Experience Highlights
+
+## 👩‍💻  Highlights & Updates
 
 **Incoming Masters Statistician Intern @** [**Eli Lilly**](https://www.lilly.com/) (_May 2024_ – _Aug 2024_)
+
+<details>
+  <summary> 
+    <b>Student Research Affiliate @</b> <a href="https://aihealth.duke.edu/">Duke AI Health</a>
+    <i>Machine Learning in Healthcare: Lab Test Harmonization</i>
+  </summary>
+
+</details>
 
 **Student Research Affiliate @** [**Duke AI Health**](https://aihealth.duke.edu/) (_May 2022_ – _Dec 2022_)
 
