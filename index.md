@@ -43,7 +43,7 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 <details>
   <summary> 
-    <b>Student Research Affiliate @</b> <a href="https://aihealth.duke.edu/">Duke AI Health</a><i>(May 2022 – Dec 2022)</i>
+    <b>Student Research Affiliate @<a href="https://aihealth.duke.edu/">Duke AI Health</a></b> <i>(May 2022 – Dec 2022)</i>
   </summary>
   <i>Machine Learning in Healthcare: Lab Test Harmonization</i>
   <ul>
