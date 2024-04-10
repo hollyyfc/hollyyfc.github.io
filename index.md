@@ -34,6 +34,7 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 ![Skillset](/images/skills.png)
 <div style="text-align: right"> <i>© Visualization is created by scraping through my resume using R wordcloud2 package.</i> </div>
 
+\ 
 
 ## 👩‍💻 Experience Highlights
 
