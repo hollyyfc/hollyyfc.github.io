@@ -16,14 +16,16 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 - In my free time, I do 🥊 / 🚴‍♀️ / 🎹 / 🧁
 
 <div style="text-align: right"> 
-    <i><a href="/docus/Yifan%20(Holly)%20Cui%20Resume.pdf">👉View My Resume</a></i> 
+    <a href="/docus/Yifan%20(Holly)%20Cui%20Resume.pdf">👉View My Resume</a> 
 </div>
 
 
 ## 🏫 Education
-- **M.S. Student**, Statistics |      Duke University (_May 2025_)
-- **B.S.**, Statistical Science <br>(Data Science Concentration) <br>& Minor in Computer Science | Duke University (_May 2023_)
-- Statistics and Data Science | University of California, Santa Barbara <br>(Transfer Out on _June 2021_)
+|                                                  |   **Degree**   |                                    **Field of Study**                                    | **Dates** |
+|--------------------------------------------------|:--------------:|:----------------------------------------------------------------------------------------:|-----------|
+| **Duke University**                              |  M.S. Student  |                                        Statistics                                        | May 2025  |
+| **Duke University**                              |      B.S.      | Statistical Science  <br>  (Data Science Concentration)  <br>  Minor in Computer Science | May 2023  |
+| **University of California, <br> Santa Barbara** | (Transfer Out) |                                Statistics and Data Science                               | June 2021 |
 
 ## 👩‍💻 Experience Highlights
 
