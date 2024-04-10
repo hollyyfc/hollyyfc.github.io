@@ -51,7 +51,6 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
     <li>Optimized lab test deduplication of grouper labels by adopting and fine-tuning Bio-BERT NLP structure pre-trained on biomedical corpora; created a new method of cross-comparison similarity evaluation based on ground-truth text embeddings, and uncovered 95% performance boost in the application to Duke lab <i>analyte</i> database</li>
   </ul>
 </details>
-
   <br>
 <details>
   <summary> 
@@ -63,7 +62,6 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
     <li>Quantified the relationship between audio duration and performance of robocall classification; identified the preferred audio truncation length and optimal similarity threshold, and achieved a 67% acceleration in user experience with the introduction of a customizable screening accuracy feature for Hiya mobile App</li>
   </ul>
 </details>
-
   <br>
 <details>
   <summary>
