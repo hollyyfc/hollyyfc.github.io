@@ -44,11 +44,11 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 **Opportunity Scholar @**[**posit::conf(2024)**](https://posit.co/conference/), [**Posit**](https://posit.co/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="18" height="18"/>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
           
 
-**Incoming Masters Statistician Intern @** [**Eli Lilly**](https://www.lilly.com/) (_May 2024_ – _Aug 2024_)
+**Incoming Masters Statistician Intern @** [**Eli Lilly**](https://www.lilly.com/)  <span style="float:right;"> <i>(May 2024 – Aug 2024)</i> </span>
 
 <details>
   <summary> 
-    <b>Student Research Affiliate @<a href="https://aihealth.duke.edu/">Duke AI Health</a></b> <i>(May 2022 – Dec 2022)</i>
+    <b>Student Research Affiliate @<a href="https://aihealth.duke.edu/">Duke AI Health</a></b> <span style="float:right;"> <i>(May 2022 – Dec 2022)</i> </span>
   </summary>
   <i>Machine Learning in Healthcare: Lab Test Harmonization</i>
   <ul>
@@ -60,7 +60,7 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 <details>
   <summary> 
-    <b>Data Science Intern @<a href="https://www.hiya.com/">Hiya</a></b> <i>(May 2022 – Aug 2022)</i>
+    <b>Data Science Intern @<a href="https://www.hiya.com/">Hiya</a></b> <span style="float:right;"> <i>(May 2022 – Aug 2022)</i> </span>
   </summary>
   <i>Hiya Shield Project: Robocall Identification & Screening</i>
   <ul>
@@ -72,7 +72,7 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 <details>
   <summary>
-    <b>Lead Author & Research Assistant @<a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a></b> <i>(Jun 2020 – Mar 2021)</i>
+    <b>Lead Author & Research Assistant @<a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a></b> <span style="float:right;"> <i>(Jun 2020 – Mar 2021)</i> </span>
   </summary>
   <i>Cross-Media Retrieval Based on Big Data Technology</i>
   <ul>
