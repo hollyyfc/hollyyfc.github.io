@@ -41,12 +41,12 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 ## 👩‍💻  Highlights & Updates
 
-**Opportunity Scholar @**[**posit::conf(2024)**](https://posit.co/conference/) |  [**Posit**](https://posit.co/) <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" width="18" height="18"/>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
+**Opportunity Scholar @**[**posit::conf(2024)**](https://posit.co/conference/), [**Posit**](https://posit.co/) <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" width="40" height="40"/>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
 
 
 https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg    
 
-**Incoming Masters Statistician Intern @** [**Eli Lilly**](https://www.lilly.com/)  <span style="float:right;"> <i>(May 2024 – Aug 2024)</i> </span>
+**Incoming Masters Statistician Intern @** [**Eli Lilly**](https://www.lilly.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Eli_Lilly_and_Company.svg/64px-Eli_Lilly_and_Company.svg.png" width="20" height="20"/>  <span style="float:right;"> <i>(May 2024 – Aug 2024)</i> </span>
 
 <details>
   <summary> 
