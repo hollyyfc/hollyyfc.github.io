@@ -30,7 +30,8 @@ title: Activities & Awards
 
 | Timeframe                  | Award                                 |
 | -------------------------- | --------------------------------------|
-| Nov 2023                   | [Harvard Datathon@LISH](https://sites.google.com/view/datathonatlish) No.7 /70 |
+| Aug 2024                   | Opportunity Scholar @ [posit::conf(2024)](https://posit.co/conference/)                    |
+| Nov 2023                   | [Harvard Datathon @ LISH](https://sites.google.com/view/datathonatlish) No.7 /70         |
 | May 2023                   | B.S. Graduation: Magna Cum Laude      |
 | Aug 2023                   | [Teaching Assistant of the Year](https://stat.duke.edu/awards/ta) Nomination                    |
 | 2021 - 2022                | Duke Chief Student Marshal            |
