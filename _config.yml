@@ -117,9 +117,6 @@ author:
     - title: GitHub
       url: https://github.com/hollyyfc
       icon: fab fa-github-square
-    - title: Instagram
-      url: https://www.instagram.com/holly_cui
-      icon: fab fa-instagram
 
 # Footer Links
 footer_links:
@@ -132,6 +129,3 @@ footer_links:
   - title: GitHub
     url: https://github.com/hollyyfc
     icon: fab fa-github-square
-  - title: Instagram
-    url: https://www.instagram.com/holly_cui
-    icon: fab fa-instagram
