@@ -11,8 +11,8 @@ This project was completed as an independent final study for the Spring 2024 sec
 🚩 **Keywords: Principal Stratification, Rubin Causal Model, Noncompliance, Partially Defined Outcomes, Bayesian Pattern Mixture Model, Finite Mixture Model, Expectation-Maximization (EM) Algorithm, Missing at Random (MAR)**
 
 After pursuing deeper into causal inference, the topic of noncompliance fascinates me. In a common setting, we expect a completely randomized study between the treatment and control arms, such that:
-$$
+```math
 Z \rightarrow Y
-$$
+```
 
 <embed src="https://hollyyfc.github.io/docus/STA640-Final.pdf" width="800" height="600" type="application/pdf">
