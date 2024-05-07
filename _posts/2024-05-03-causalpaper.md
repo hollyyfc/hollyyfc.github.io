@@ -6,6 +6,8 @@ tags:
   - Estimation
 ---
 
-This project was completed as an independent final study for the Spring section of [STA 640: Causal Inference](https://www2.stat.duke.edu/~fl35/CausalInferenceClass.html) at Duke University.
+This project was completed as an independent final study for the Spring 2024 section of [STA 640: Causal Inference](https://www2.stat.duke.edu/~fl35/CausalInferenceClass.html) at Duke University.
+
+🚩 **Keywords: Principal Stratification, Rubin Causal Model, Noncompliance, Partially Defined Outcomes, Bayesian Pattern Mixture Model, Finite Mixture Model, Expectation-Maximization (EM) Algorithm, Missing at Random (MAR)**
 
 <embed src="https://hollyyfc.github.io/docus/STA640-Final.pdf" width="800" height="600" type="application/pdf">
