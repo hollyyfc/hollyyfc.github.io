@@ -12,11 +12,9 @@ This project was completed as an independent final study for the Spring 2024 sec
 
 After pursuing deeper into causal inference, the topic of noncompliance fascinates me. In a common setting, we expect a completely randomized study between the treatment and control arms, such that:
 
-$$
-\begin{equation}
-Z \rightarrow Y
-\end{equation}
-$$
+
+\\[Z \rightarrow Y \\]
+
 
 However, sometimes confounding occurs post-treatment (i.e., different from the pre-treatment confounders relating to covariates), such that a post-treatment confounder $D$ happens after $Z$ but before $Y$:
 
