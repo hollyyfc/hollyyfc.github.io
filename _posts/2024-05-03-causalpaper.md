@@ -22,9 +22,9 @@ In this paper, I reviewed two classic studies by Barnard et al. (2003) and Frume
 
 
 <embed src="https://hollyyfc.github.io/docus/STA640-Final.pdf" width="800" height="600" type="application/pdf">
-  \newline
-  \newline
 
+  <br>
+  
 ### Reference
 
 Barnard, John, Constantine E Frangakis, Jennifer L Hill, and Donald B Rubin. 2003. “*Principal Stratification Approach to Broken Randomized Experiments.*” Journal of the American Statistical Association 98 (462): 299–323. https://doi.org/10.1198/016214503000071.
