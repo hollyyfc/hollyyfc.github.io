@@ -22,7 +22,8 @@ In this paper, I reviewed two classic studies by Barnard et al. (2003) and Frume
 
 
 <embed src="https://hollyyfc.github.io/docus/STA640-Final.pdf" width="800" height="600" type="application/pdf">
-
+  \newline
+  \newline
 
 ### Reference
 
