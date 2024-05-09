@@ -30,7 +30,8 @@ title: Activities & Awards
 
 | Timeframe                  | Award                                 |
 | -------------------------- | --------------------------------------|
-| Aug 2024                   | Opportunity Scholar @ [posit::conf(2024)](https://posit.co/conference/)                    |
+| Aug 15, 2024               | Invitee @ [R Dev Day @ Hutch](https://contributor.r-project.org/events/)                    |
+| Aug 12-14, 2024            | Opportunity Scholar @ [posit::conf(2024)](https://posit.co/conference/)                    |
 | Nov 2023                   | [Harvard Datathon @ LISH](https://sites.google.com/view/datathonatlish) No.7 /70         |
 | May 2023                   | B.S. Graduation: Magna Cum Laude      |
 | Aug 2023                   | [Teaching Assistant of the Year](https://stat.duke.edu/awards/ta) Nomination                    |

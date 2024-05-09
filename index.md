@@ -41,7 +41,7 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 ## 👩‍💻  Highlights & Updates
 
-**Invitee \|** [**R Dev Day @ Hutch**](https://contributor.r-project.org/events/) **@** <a href="https://www.r-project.org/foundation/"><img src="https://www.r-project.org/logo/Rlogo.svg" width="40" height="40"/></a>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
+**Invitee \|** [**R Dev Day @ Hutch**](https://contributor.r-project.org/events/) **@** <a href="https://www.r-project.org/foundation/"><img src="https://www.r-project.org/logo/Rlogo.svg" width="30" height="30"/></a>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
 
 **Opportunity Scholar \|** [**posit::conf(2024)**](https://posit.co/conference/) **@** <a href="https://posit.co/"><img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" width="60" height="60"/></a>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
 
