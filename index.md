@@ -45,7 +45,13 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 **Opportunity Scholar \|** [**posit::conf(2024)**](https://posit.co/conference/) **@** <a href="https://posit.co/"><img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" width="60" height="60"/></a>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
 
-**Incoming Masters Statistician Intern @** <a href="https://www.lilly.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Eli_Lilly_and_Company.svg/64px-Eli_Lilly_and_Company.svg.png" width="45" height="45"/></a>  <span style="float:right;"> <i>(May 2024 – Aug 2024)</i> </span>
+
+<details>
+  <summary>
+  <b>Masters Statistician Intern @ </b> <a href="https://www.lilly.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Eli_Lilly_and_Company.svg/64px-Eli_Lilly_and_Company.svg.png" width="45" height="45"/></a>  <span style="float:right;"> <i>(May 2024 – Aug 2024)</i> </span>
+  </summary>
+  <i>Computational Stats - Diabetes Safety TFLs Automation</i>
+</details>
 
 <details>
   <summary> 
@@ -61,7 +67,7 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 <details>
   <summary> 
-    <b>Data Science Intern @ <a href="https://www.hiya.com/">Hiya</a></b> <span style="float:right;"> <i>(May 2022 – Aug 2022)</i> </span>
+    <b>Data Science Intern @ <a href="https://www.hiya.com/">Hiya</a></b> <span style="float:right;"> <i>(Jun 2022 – Aug 2022)</i> </span>
   </summary>
   <i>Hiya Shield Project: Robocall Identification & Screening</i>
   <ul>
