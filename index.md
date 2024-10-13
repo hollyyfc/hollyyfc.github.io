@@ -43,7 +43,7 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 **Invitee \|** [**R Dev Day @ Hutch**](https://contributor.r-project.org/events/) **@** <a href="https://www.r-project.org/foundation/"><img src="https://www.r-project.org/logo/Rlogo.svg" width="30" height="30"/></a>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
 
-**Opportunity Scholar \|** [**posit::conf(2024)**](https://posit.co/conference/) **@** <a href="https://posit.co/"><img src="https://posit.co/wp-content/uploads/2022/10/Posit-logo-h-full-color-RGB-TM.svg" width="60" height="60"/></a>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
+**Opportunity Scholar \|** [**posit::conf(2024)**](https://posit.co/conference/) **@** <a href="https://posit.co/"><img src="https://posit.co/wp-content/uploads/2022/10/Posit-logo-h-full-color-RGB-TM.svg" width="70" height="70"/></a>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
 
 
 <details>
@@ -55,7 +55,7 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 <details>
   <summary> 
-    <b>Student Research Affiliate @ <a href="https://aihealth.duke.edu/">Duke AI Health</a></b> <span style="float:right;"> <i>(May 2022 – Dec 2022)</i> </span>
+    <b>Student Research Affiliate @ </b> <a href="https://aihealth.duke.edu/"><img src="https://sites.duke.edu/aihealth/files/2023/02/Footer-2.png" width="45" height="45"/></a> <span style="float:right;"> <i>(May 2022 – Dec 2022)</i> </span>
   </summary>
   <i>Lab Test Harmonization: Bio-BERT Based Deduplication of Test Labels</i>
   <ul>
@@ -67,7 +67,7 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 <details>
   <summary> 
-    <b>Data Science Intern @ <a href="https://www.hiya.com/">Hiya</a></b> <span style="float:right;"> <i>(Jun 2022 – Aug 2022)</i> </span>
+    <b>Data Science Intern @ </b> <a href="https://www.hiya.com/"><img src="https://hiyahelp.zendesk.com/hc/theming_assets/01J5X1KJ1C6QJ6Y30ZGRGXZBRV" width="45" height="45"/></a> <span style="float:right;"> <i>(Jun 2022 – Aug 2022)</i> </span>
   </summary>
   <i>Hiya Shield Project: Robocall Identification & Screening</i>
   <ul>
@@ -79,7 +79,7 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 <details>
   <summary>
-    <b>Lead Author & Research Assistant @ <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a></b> <span style="float:right;"> <i>(Jun 2020 – Mar 2021)</i> </span>
+    <b>Lead Author & Research Assistant @ </b> <a href="https://www.tsinghua.edu.cn/en/"><img src="https://www.logo.wine/a/logo/Tsinghua_University/Tsinghua_University-Logo.wine.svg" width="45" height="45"/></a> <span style="float:right;"> <i>(Jun 2020 – Mar 2021)</i> </span>
   </summary>
   <i>Cross-Media Retrieval Based on Big Data Technology</i>
   <ul>
