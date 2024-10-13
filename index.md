@@ -55,7 +55,7 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 <details>
   <summary> 
-    <b>Student Research Affiliate @ </b> <a href="https://aihealth.duke.edu/"><img src="https://sites.duke.edu/aihealth/files/2023/02/Footer-2.png" width="45" height="45"/></a> <span style="float:right;"> <i>(May 2022 – Dec 2022)</i> </span>
+    <b>Student Research Affiliate @ </b> <a href="https://aihealth.duke.edu/"><img src="https://sites.duke.edu/aihealth/files/2023/02/Footer-2.png" width="60" height="60"/></a> <span style="float:right;"> <i>(May 2022 – Dec 2022)</i> </span>
   </summary>
   <i>Lab Test Harmonization: Bio-BERT Based Deduplication of Test Labels</i>
   <ul>
@@ -79,7 +79,7 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 <details>
   <summary>
-    <b>Lead Author & Research Assistant @ </b> <a href="https://www.tsinghua.edu.cn/en/"><img src="https://www.logo.wine/a/logo/Tsinghua_University/Tsinghua_University-Logo.wine.svg" width="45" height="45"/></a> <span style="float:right;"> <i>(Jun 2020 – Mar 2021)</i> </span>
+    <b>Lead Author & Research Assistant @ </b> <a href="https://www.tsinghua.edu.cn/en/"><img src="https://www.logo.wine/a/logo/Tsinghua_University/Tsinghua_University-Logo.wine.svg" width="60" height="60"/></a> <span style="float:right;"> <i>(Jun 2020 – Mar 2021)</i> </span>
   </summary>
   <i>Cross-Media Retrieval Based on Big Data Technology</i>
   <ul>
