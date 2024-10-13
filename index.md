@@ -45,12 +45,15 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 
 **Opportunity Scholar \|** [**posit::conf(2024)**](https://posit.co/conference/) **@** <a href="https://posit.co/"><img src="https://posit.co/wp-content/uploads/2022/10/Posit-logo-h-full-color-RGB-TM.svg" width="70" height="70"/></a>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
 
-
 <details>
   <summary>
   <b>Masters Statistician Intern @ </b> <a href="https://www.lilly.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Eli_Lilly_and_Company.svg/64px-Eli_Lilly_and_Company.svg.png" width="45" height="45"/></a>  <span style="float:right;"> <i>(May 2024 – Aug 2024)</i> </span>
   </summary>
-  <i>Computational Stats - Diabetes Safety TFLs Automation</i>
+  <i>Diabetes Common Safety Tables, Figures, Lists (TFLs) Automation</i>
+  <ul>
+  <li>Developed and launched a Shiny app to automate the creation, execution, and review of common safety TFLs, integrating R and SAS code with output formatting, progress tracking, and error reporting through front-end UI design and back-end cloud system engineering; consolidated 30+ common safety TFLs from 300+ listings across 5+ Diabetes study by building a flexible internal TAFFY template project; reimagined the clinical reporting pipeline with enhanced efficiency and consistency</li>
+  <li>Orchestrated regular meetings with senior leadership; pitched the app to 600+ global employees; achieved successful implementations in Diabetes, with ongoing rollouts to Neuroscience and other therapeutic areas</li>
+  </ul>
 </details>
 
 <details>
@@ -59,8 +62,8 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
   </summary>
   <i>Lab Test Harmonization: Bio-BERT Based Deduplication of Test Labels</i>
   <ul>
-    <li>Selected as the sole undergraduate amidst a competitive pool of professional candidates for Duke AI Health 2022 cohort, and earned the prestigious opportunity to present research findings at <a href="https://aihealth.duke.edu/poster-showcase-2022/">Duke AI Health Poster Showcase 2022</a></li>
-    <li>Optimized lab test deduplication of grouper labels by adopting and fine-tuning Bio-BERT NLP structure pre-trained on biomedical corpora; created a new method of cross-comparison similarity evaluation based on ground-truth text embeddings, and uncovered 95% performance boost in the application to Duke lab <i>analyte</i> database</li>
+    <li>Optimized lab test deduplication of grouper labels by fine-tuning Bio-BERT, an NLP model pre-trained on biomedical corpora; established a new method of cross-comparison similarity evaluation based on ground-truth text embeddings; uncovered a 95% performance boost in the application to Duke Hospital’s lab database</li>
+    <li>Demonstrated academic distinction by contributing to the Duke AI Health 2022 cohort as the sole undergraduate participant; effectively communicated research outcomes through a well-received presentation at the <a href="https://aihealth.duke.edu/poster-showcase-2022/">Duke AI Health Poster Showcase 2022</a></li>
   </ul>
 </details>  
 
@@ -71,8 +74,9 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
   </summary>
   <i>Hiya Shield Project: Robocall Identification & Screening</i>
   <ul>
-    <li>Spearheaded a robocall screening process using NLP text embeddings to determine if an audio sample (or its transcript) is from a known robocall database</li>
-    <li>Quantified the relationship between audio duration and performance of robocall classification; identified the preferred audio truncation length and optimal similarity threshold, and achieved a 67% acceleration in user experience with the introduction of a customizable screening accuracy feature for Hiya mobile App</li>
+    <li>Spearheaded an NLP-based robocall detection system based on internal audio databases, leveraging SBERT, unsupervised learning, statistical analysis, and AWS Cloud on text- and audio-space manipulation
+</li>
+    <li>Enhanced classification efficiency by discovering optimal audio truncation length and similarity thresholds, driving a 67% faster user experience with a customizable accuracy screening feature for Hiya mobile app</li>
   </ul>
 </details>  
 
@@ -83,8 +87,9 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
   </summary>
   <i>Cross-Media Retrieval Based on Big Data Technology</i>
   <ul>
-    <li>Improved performance of permutation invariant training with mean squared error loss through BLSTM/LSTM and CNN in a key media separation technique; proved the improvement in two separation methods – the FIX strategy and the masking-based data augmentation strategy – and subsequently developed independent research project</li>
-    <li>Paper Publication: <i><a href="https://ieeexplore.ieee.org/document/9332362">Audio-Visual Single-Channel Signal Separation based on Big Data Augmentation</a></i> published by IEEE during International Conference on Computer Networks and Electronic Communications (ICCNEC 2020)</li>
+    <li>Refined traditional permutation invariant training with mean squared error loss through BLSTM/LSTM and CNN in a key media separation technique; innovated two new separation methods – the FIX strategy and the masking-based data augmentation strategy, demonstrating notable performance gains
+</li>
+    <li>Publication: <i><a href="https://ieeexplore.ieee.org/document/9332362">Audio-Visual Single-Channel Signal Separation based on Big Data Augmentation</a></i> in IEEE (IICSPI 2020)</li>
   </ul>
 </details>
 
