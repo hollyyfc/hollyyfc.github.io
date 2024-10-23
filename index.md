@@ -94,6 +94,10 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 </details>
 
 
+## 🎨 Creative Outlet
+
+![Art](/images/final_art.png)
+
 
 
 
