@@ -31,14 +31,6 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
   <br>
 
 
-## ⚙️ Skillset
-
-![Skillset](/images/skills.png)
-<div style="text-align: right"> <i>© Visualization is created by scraping through my resume using R package <a href="https://github.com/Lchiffon/wordcloud2">wordcloud2</a>.</i> </div>
-
-  <br>
-
-
 ## 👩‍💻  Highlights & Updates
 
 **Invitee \|** [**R Dev Day @ Hutch**](https://contributor.r-project.org/events/) **@** <a href="https://www.r-project.org/foundation/"><img src="https://www.r-project.org/logo/Rlogo.svg" width="30" height="30"/></a>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
@@ -103,5 +95,10 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 ![Art](/images/final_art.png)
 <div style="text-align: right"> <i>© Generative art is created with R packages <a href="https://github.com/koenderks/aRtsy">aRtsy</a> and <a href="https://patchwork.data-imaginist.com/">patchwork</a>.</i> </div>
 
+  <br>
+  
 
+## ⚙️ Skillset
 
+![Skillset](/images/skills.png)
+<div style="text-align: right"> <i>© Visualization is created by scraping through my resume using R package <a href="https://github.com/Lchiffon/wordcloud2">wordcloud2</a>.</i> </div>
