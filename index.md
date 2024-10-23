@@ -7,6 +7,8 @@ title:
 
 ------------------------------------------------------------------------------
 
+![Art](/images/final_art.png)
+
 # 👋 Hello there!
 
 I am an aspiring data scientist and Master's student in the Department of  Statistical Science at Duke University, where I also obtained my Bachelor's in Statistical Science (Data Science Concentration) and a Minor in Computer Science. 
