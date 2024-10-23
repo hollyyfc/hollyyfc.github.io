@@ -7,8 +7,6 @@ title:
 
 ------------------------------------------------------------------------------
 
-![Art](/images/final_art.png)
-
 # 👋 Hello there!
 
 I am an aspiring data scientist and Master's student in the Department of  Statistical Science at Duke University, where I also obtained my Bachelor's in Statistical Science (Data Science Concentration) and a Minor in Computer Science. 
@@ -98,10 +96,12 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
   <br>
 
 
-
 ## 🎨 Creative Outlet
 
 ![Art](/images/final_art.png)
+<div style="text-align: right"> <i>© Generative art is created with R packages aRtsy and patchwork.</i> </div>
+
+Lines of code, strokes of art — both speak a language beyond words. Generative art becomes my passion towards digital creativity. See my inspirations for the art pieces above: [1](https://youtu.be/WVJQ-6HbhdU?si=nMHAE69dy7xJCDQk), [2](https://youtu.be/fTa1v_MQbVY?si=B5zon-IvvS_qDcAd), [3](https://youtu.be/hbluXvy32qM?si=M2fkeMDKa0oP6obE), [4](https://youtu.be/ZMwJ6R9BE48?si=e-l-_JlKeO6fkONs), [5](https://youtu.be/E7nWMWlVHyA?si=Fr0-VwcWUu8QzZsI), [6](https://youtu.be/ibOThZNkbuw?si=oa0gPrVAGBqeeXnS). 
 
 
 
