@@ -20,17 +20,6 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
 </div>
 
 
-## 🏫 Education
-
-|  *Institution*    | *Degree*     | *Field of Study* | *Dates* |
-| ----------------- | ------------ | ---------------- | ------- |
-| **Duke University** | M.S. Student | Statistics  | May 2025  |
-| **Duke University** | B.S. | Statistical Science (Data Science Concentration) Minor in Computer Science | May 2023  |
-| **University of California, Santa Barbara** | (Transfer Out) | Statistics and Data Science | June 2021 |
-
-  <br>
-
-
 ## 👩‍💻  Highlights & Updates
 
 **Invitee \|** [**R Dev Day @ Hutch**](https://contributor.r-project.org/events/) **@** <a href="https://www.r-project.org/foundation/"><img src="https://www.r-project.org/logo/Rlogo.svg" width="30" height="30"/></a>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
@@ -88,6 +77,25 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
   <br>
 
 
+## 🏫 Education
+
+|  *Institution*    | *Degree*     | *Field of Study* | *Dates* |
+| ----------------- | ------------ | ---------------- | ------- |
+| **Duke University** | M.S. Student | Statistics  | May 2025  |
+| **Duke University** | B.S. | Statistical Science (Data Science Concentration) Minor in Computer Science | May 2023  |
+| **University of California, Santa Barbara** | (Transfer Out) | Statistics and Data Science | June 2021 |
+
+  <br>
+
+
+## ⚙️ Skillset
+
+![Skillset](/images/skills.png)
+<div style="text-align: right"> <i>© Visualization is created by scraping through my resume using R package <a href="https://github.com/Lchiffon/wordcloud2">wordcloud2</a>.</i> </div>
+
+  <br>
+  
+
 ## 🎨 Creative Outlet
 
 *Lines of code, strokes of art* — both speak a language beyond words. Generative art becomes my passion towards digital creativity. See my inspirations for the art pieces below: [1](https://youtu.be/WVJQ-6HbhdU?si=nMHAE69dy7xJCDQk), [2](https://youtu.be/fTa1v_MQbVY?si=B5zon-IvvS_qDcAd), [3](https://youtu.be/hbluXvy32qM?si=M2fkeMDKa0oP6obE), [4](https://youtu.be/ZMwJ6R9BE48?si=e-l-_JlKeO6fkONs), [5](https://youtu.be/E7nWMWlVHyA?si=Fr0-VwcWUu8QzZsI), [6](https://youtu.be/ibOThZNkbuw?si=oa0gPrVAGBqeeXnS). 
@@ -98,7 +106,4 @@ I am an aspiring data scientist and Master's student in the Department of  Stati
   <br>
   
 
-## ⚙️ Skillset
 
-![Skillset](/images/skills.png)
-<div style="text-align: right"> <i>© Visualization is created by scraping through my resume using R package <a href="https://github.com/Lchiffon/wordcloud2">wordcloud2</a>.</i> </div>
