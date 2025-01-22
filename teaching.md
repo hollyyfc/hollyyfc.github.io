@@ -8,8 +8,9 @@ title: Teaching
 ------------------------------------------------------------------------------
 
 ## TA at Duke University
-- STA 313 - Advanced Data Visualization (_Spring 2024_)
-- STA 313 - [Advanced Data Visualization](https://vizdata.org/) (_Spring 2023_)
+- STA 663 - [Statistical Computing and Computation](https://sta663-sp25.github.io/) (_Spring 2025_)
+- STA 313 - [Advanced Data Visualization](https://vizdata.org/) (_Spring 2024_)
+- STA 313 - Advanced Data Visualization (_Spring 2023_)
 - STA 360 - [Bayesian and Modern Statistics](https://github.com/resteorts/modern-bayes) (_Fall 2022_)
 
 ## TA at University of California, Santa Barbara
