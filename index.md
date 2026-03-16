@@ -22,6 +22,10 @@ When I'm (unfortunately) away from my laptop, I'm usually at the gym 🥊, cycli
 
 ## 👩‍💻  Highlights & Updates
 
+**Sr Computational Statistician @ ** <a href="https://www.lilly.com/"><img src="/images/lilly.svg.png" width="45" height="45"/></a>  <span style="float:right;"> <i>(Jul 2025 – Now)</i> </span>
+
+**Open-Source Developer \|** [**lme4u R Package**](https://hollyyfc.github.io/lme4u/) <a href="https://hollyyfc.github.io/lme4u/"><img src="/images/lme4u_logo.png" width="30" height="30"></a>   <span style="float:right;"> <i>(Apr 2025)</i> </span>
+
 **Invitee \|** [**R Dev Day @ Hutch**](https://contributor.r-project.org/events/) **@** <a href="https://www.r-project.org/foundation/"><img src="https://www.r-project.org/logo/Rlogo.svg" width="30" height="30"/></a>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
 
 **Opportunity Scholar \|** [**posit::conf(2024)**](https://posit.co/conference/) **@** <a href="https://posit.co/"><img src="/images/posit.svg" width="70" height="70"></a>   <span style="float:right;"> <i>(Aug 2024)</i> </span>
