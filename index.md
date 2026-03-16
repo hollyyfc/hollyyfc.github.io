@@ -9,11 +9,11 @@ title:
 
 # 👋 Hello there!
 
-I am an aspiring data scientist and Master's student in the Department of  Statistical Science at Duke University, where I also obtained my Bachelor's in Statistical Science (Data Science Concentration) and a Minor in Computer Science. 
+I am a statistician by training, an R developer by habit, and an automation enthusiast by curiosity.
 
-- My academic journey has been marked by a deep research commitment to statistical analysis, machine learning, and data science, with special focuses on natural language processing, Bayesian statistics, and creative data visualizations. Take a look of my previous [research](/research) and [projects](/projects) in R and Python, and let me know if you are interested! 
-- Beyond academia, I actively contribute as a Project Manager & Data Analyst @ [Duke Impact Investing Group](https://www.linkedin.com/company/diig/) and as the Chief Technology Officer @ [Duke Statistical Science Majors Union](https://dukegroups.com/ssmu/home/). Additionally, I have been a [teaching assistant](/teaching) with 3+ years of experience. Feel free to reach out for project advice and business case studies. 
-- In my free time, I do 🥊 / 🚴‍♀️ / 🎹 / 🧁
+Currently working as a Sr. Computational Statistician at Eli Lilly, I spend most of my time building tools where statistics meets innovation -- from clinical trial analytics to R-based automation and emerging AI productivity projects. I received my M.S. + B.S. in Statistics from Duke University, and I enjoy turning stats ideas into practical solutions, including open-source tools like my R package [lme4u](https://hollyyfc.github.io/lme4u/) and other technical projects you can explore in my [projects](/projects) and [research](/research) sections.
+
+When I'm (unfortunately) away from my laptop, I'm usually at the gym 🥊, cycling 🚴‍♀, or busy becoming a DJ ✌︎㋡ 
 
 <div style="text-align: right"> 
     <a href="/docus/Yifan%20(Holly)%20Cui%20Resume.pdf">👉View My Resume</a> 
