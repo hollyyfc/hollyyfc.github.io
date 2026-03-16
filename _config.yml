@@ -108,7 +108,7 @@ defaults:
 author:
   name: Holly Cui
   picture: /images/logo.png
-  email: yifan.cui@duke.edu
+  email: hollycui1218@gmail.com
   twitter:
   links:
     - title: LinkedIn
@@ -121,7 +121,7 @@ author:
 # Footer Links
 footer_links:
   - title: Email
-    url: mailto:yifan.cui@duke.edu
+    url: mailto:hollycui1218@gmail.com
     icon: fa fa-envelope
   - title: LinkedIn
     url: https://www.linkedin.com/in/holly-c-4b4520236/
